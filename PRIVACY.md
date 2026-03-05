@@ -40,4 +40,4 @@ This Privacy Policy may be updated from time to time. Any updates will be reflec
 
 If you have any questions about this Privacy Policy, please contact:
 
-[support@reqbox.dev](mailto:hastechnology5@gmail.com)
+[hastechnology5@gmail.com](mailto:hastechnology5@gmail.com)
